@@ -1,1 +1,2 @@
 # odin-recipes
+This project required knowledge of HTML basics ranging from elements and tags to commit messages. Upon completion, I was able to efficiently set-up boilerplates from scratch, create ordered/unordered lists under headings with different text sizes, create paragraphs using bold and italicized text, and most importantly, getting used to navigating/using git, which I know will be an important skill to master.
